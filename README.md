@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="https://inquirologic-ai.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="#features">Features</a> •
   <a href="#demo">Demo</a> •
   <a href="#installation">Installation</a> •
