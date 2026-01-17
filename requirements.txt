@@ -1,0 +1,12 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain-google
+langchain-groq
+langchain-google-genai
+langsmith
+langchain_core
+langchain_huggingface
+streamlit
+SQLAlchemy
